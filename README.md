@@ -34,21 +34,21 @@
 * yarn : 1.22.5
 
 ### environment
-## env
+#### env
 1. `.env`
 * 실제 환경용 환경변수가 있는 파일로 템플릿 안에 있습니다.
 2. `.env.develop`
 * 개발 환경용 환경변수가 있는 파일이며, 템플릿 안에 없습니다. 생성해야 합니다.
-`.env` 파일을 복사하여 `.env.develop`명으로 붙이고 `REACT_APP_PROFILE=DEV`을 넣어주면 됩니다.
+* `.env` 파일을 복사하여 `.env.develop`명으로 붙이고 `REACT_APP_PROFILE=DEV`을 넣어주면 됩니다.
 3. `.env.dev-build`
-로컬 빌드 스크립트, `REACT_APP_PROFILE=DEV`가 있으면 개발환경 없으면 실제환경으로 연결됩니다.
+* 로컬 빌드 스크립트, `REACT_APP_PROFILE=DEV`가 있으면 개발환경 없으면 실제환경으로 연결됩니다.
 
 
-## Profile
-`release`: 상용 환경
-`dev`: 개발 환경
-`local`: 로컬 환경
-`alpha`: 테스트 환경
+#### Profile
+* `release`: 상용 환경
+* `dev`: 개발 환경
+* `local`: 로컬 환경
+* `alpha`: 테스트 환경
 
 
 ### Installation
