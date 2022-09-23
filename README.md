@@ -60,4 +60,4 @@ npm install
 ```
 
 ## Contact
-* HTBeyond BLUE Team
+HTBeyond BLUE Team
