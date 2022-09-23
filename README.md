@@ -7,4 +7,4 @@
 바이비 운영툴에서 사용되는 프레임워크, 라이브러리 목록입니다.
 
 * ![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
-* ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript)
+* ![Typescript](https://img.shields.io/badge/typescript-444444?style=for-the-badge&logo=typescript)
