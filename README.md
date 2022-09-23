@@ -34,7 +34,6 @@
 * yarn : 1.22.5
 
 ### environment
-#### env
 1. `.env`
 * 실제 환경용 환경변수가 있는 파일로 템플릿 안에 있습니다.
 2. `.env.develop`
@@ -43,20 +42,19 @@
 3. `.env.dev-build`
 * 로컬 빌드 스크립트, `REACT_APP_PROFILE=DEV`가 있으면 개발환경 없으면 실제환경으로 연결됩니다.
 
-
-#### Profile
+### Profile
 * `release`: 상용 환경
 * `dev`: 개발 환경
 * `local`: 로컬 환경
 * `alpha`: 테스트 환경
 
-
 ### Installation
 * 레포지토리 클론해오기
 ```
-git clone https://github.com/htbeyond/blue-web-byb-admin.git
+git clone https://git.com/htbeyond/blue-web-byb-admin.git
 ```
 * Yarn, Npm Packages 설치하기
 ```
-yarn install / npm install
+yarn install
+npm install
 ```
