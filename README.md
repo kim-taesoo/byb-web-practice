@@ -15,8 +15,8 @@
 * ![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
 * ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 * ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux)
-* <img src="https://img.shields.io/badge/styled components-DB7093?&logo=styled-components&logoColor=white"/>
 * ![Amazon S3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=fff)
 * ![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazons3&logoColor=fff)
 * ![Firebase](https://img.shields.io/badge/firebase-444444?style=for-the-badge&logo=firebase)
 * ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+* <img src="https://img.shields.io/badge/styled components-DB7093?&logo=styled-components&logoColor=white"/>
