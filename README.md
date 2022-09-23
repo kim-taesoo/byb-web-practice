@@ -20,3 +20,43 @@
 * ![Firebase](https://img.shields.io/badge/firebase-444444?style=for-the-badge&logo=firebase)
 * ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 * <img src="https://img.shields.io/badge/styled components-DB7093?&logo=styled-components&logoColor=white"/>
+
+### Directory Structure
+바이비 운영툴의 디렉토리 구조는 크게 복잡한 편은 아닙니다. 아래에 정리된 표와 같이 훑어보시길 권장드립니다.
+
+바이비 운영툴 디렉토리 구조: https://htbeyond.atlassian.net/wiki/spaces/BMXBLUE/pages/340820049
+
+## Getting Started
+프로젝트를 로컬에서 돌려보도록 합시다. 아래의 단계를 천천히 따라오시면 됩니다.
+
+### Version
+* node : upper 16.0
+* yarn : 1.22.5
+
+### environment
+## env
+1. `.env`
+* 실제 환경용 환경변수가 있는 파일로 템플릿 안에 있습니다.
+2. `.env.develop`
+* 개발 환경용 환경변수가 있는 파일이며, 템플릿 안에 없습니다. 생성해야 합니다.
+`.env` 파일을 복사하여 `.env.develop`명으로 붙이고 `REACT_APP_PROFILE=DEV`을 넣어주면 됩니다.
+3. `.env.dev-build`
+로컬 빌드 스크립트, `REACT_APP_PROFILE=DEV`가 있으면 개발환경 없으면 실제환경으로 연결됩니다.
+
+
+## Profile
+`release`: 상용 환경
+`dev`: 개발 환경
+`local`: 로컬 환경
+`alpha`: 테스트 환경
+
+
+### Installation
+* 레포지토리 클론해오기
+```
+git clone https://github.com/htbeyond/blue-web-byb-admin.git
+```
+* Yarn, Npm Packages 설치하기
+```
+yarn install / npm install
+```
