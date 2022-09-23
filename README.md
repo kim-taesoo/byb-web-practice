@@ -58,3 +58,6 @@ git clone https://git.com/htbeyond/blue-web-byb-admin.git
 yarn install
 npm install
 ```
+
+## Contact
+* HTBeyond BLUE Team
