@@ -9,3 +9,4 @@
 * ![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
 * ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
 * ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux)
+* ![Amazon S3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3)
