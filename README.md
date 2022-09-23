@@ -8,4 +8,4 @@
 
 * ![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
 * ![Typescript](https://img.shields.io/badge/typescript-444444?style=for-the-badge&logo=typescript)
-* ![Redux](https://img.shields.io/badge/redux-444444?style=for-the-badge&logo=redux&logoColor='#764ABC')
+* ![Redux](https://img.shields.io/badge/redux-444444?style=for-the-badge&logo=redux&logoColor=764ABC)
